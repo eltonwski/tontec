@@ -1,0 +1,20 @@
+.menu-01{
+    background-color: rgb(80, 31, 255);
+    height: 500px;
+}
+
+.conteudo-01{
+    color: white;
+}
+
+.conteudo-01>p{
+    font-size: 22px;
+}
+h1{
+    font-size: 35px;
+}
+
+.menu-contato{
+    background-color: rgb(80, 31, 255);
+    height: 240px;
+}
